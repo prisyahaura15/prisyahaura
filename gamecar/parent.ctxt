@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=parent
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=void\ end()
+comment2.text=\r\n\ \r\n
+comment3.params=i
+comment3.target=void\ checkdouble(greenfoot.Actor)
+comment3.text=\r\n\ \r\n
+comment4.params=speed
+comment4.target=void\ move(int)
+comment4.text=\r\n\ \r\n
+numComments=5
